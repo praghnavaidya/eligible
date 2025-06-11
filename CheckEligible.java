@@ -1,4 +1,4 @@
-package eligible_checker;
+
 
 public class CheckEligible {
     public static void main(String[] args){
